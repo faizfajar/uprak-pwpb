@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.navbar-brand img {
+    height: 35px;
+}
+
+.bg-red {
+    background-color: rgb(218, 41, 28);
+}
+
+.text-red {
+    color: rgb(218, 41, 28) !important;
+}
+
+.yellowmekdi {
+    color: rgb(255, 199, 44);
+}
+
+.list-produk {
+    height: 550px;
+    border: 1px solid #c5c5c5;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.list-produk .card-produk {
+    margin-right: -100px;
+}
+
+#listproduk img {
+    width: 150px;
+}
+
+.font-fira {
+    font-weight: 700;
+    font-family: 'Fira Code', monospace;
+}
+
+.dropdown-menu {
+    -webkit-box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+}
+
+.swal-footer {
+    background-color: rgb(245, 248, 250);
+    margin-top: 32px;
+    border-top: 1px solid #E9EEF1;
+    overflow: hidden;
+}
